@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Tienda.ViewModel"
+             x:Class="Tienda.View.ActualizarProducto">
+
+    <ContentPage.BindingContext>
+        <vm:ActualizarProductoViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout Padding="30" VerticalOptions="CenterAndExpand">
+
+            <!-- Título -->
+            <Label Text="Actualizar Producto"
+                   FontSize="Large"
+                   HorizontalOptions="Center" />
+
+            <!-- Entrada de Nombre -->
+            <Entry Placeholder="Nombre"
+                   Text="{Binding Nombre}"
+                   Margin="0,20,0,0" />
+
+            <!-- Entrada de Precio -->
+            <Entry Placeholder="Precio"
+                   Keyboard="Numeric"
+                   Text="{Binding Precio}"
+                   Margin="0,20,0,0" />
+
+            <!-- Entrada de Cantidad -->
+            <Entry Placeholder="Cantidad"
+                   Keyboard="Numeric"
+                   Text="{Binding Cantidad}"
+                   Margin="0,20,0,0" />
+
+            <!-- Entrada de Descripción -->
+            <Entry Placeholder="Descripción"
+                   Text="{Binding Descripcion}"
+                   Margin="0,20,0,0" />
+
+            <!-- Botón de Guardar -->
+            <Button Text="Guardar Cambios"
+                    BackgroundColor="#007AFF"
+                    TextColor="White"
+                    Margin="0,20,0,0"
+                    Command="{Binding GuardarCommand}" />
+
+            <!-- Botón de Cancelar -->
+            <Button Text="Cancelar"
+                    BackgroundColor="#007AFF"
+                    TextColor="White"
+                    Margin="0,20,0,0"
+                    Command="{Binding CancelarCommand}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

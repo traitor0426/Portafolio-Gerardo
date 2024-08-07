@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itzel\\source\\repos\\Tienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\view\\crearproducto.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\view\\crearproducto.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\view\\crearproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\view\\crearproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\viewmodel\\crearproductoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\viewmodel\\crearproductoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\viewmodel\\actualizarproductoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\viewmodel\\actualizarproductoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\view\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\view\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\view\\actualizarproducto.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\view\\actualizarproducto.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\view\\inicio.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\view\\inicio.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\viewmodel\\inicioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\viewmodel\\inicioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\viewmodel\\crearcuentaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\viewmodel\\crearcuentaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\view\\crearcenta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\view\\crearcenta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\model\\modelousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\model\\modelousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\view\\crearcenta.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\view\\crearcenta.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|c:\\users\\itzel\\source\\repos\\tienda\\tienda\\tienda\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B4BB5A9C-9B83-44FC-BD60-B0D0BE3ED735}|Tienda\\Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActualizarProductoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\ActualizarProductoViewModel.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\ViewModel\\ActualizarProductoViewModel.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\ActualizarProductoViewModel.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\ViewModel\\ActualizarProductoViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:46:38.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActualizarProducto.xaml",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\ActualizarProducto.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\View\\ActualizarProducto.xaml",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\ActualizarProducto.xaml",
+              "RelativeToolTip": "Tienda\\Tienda\\View\\ActualizarProducto.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T08:46:05.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearProducto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\CrearProducto.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\View\\CrearProducto.xaml.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\CrearProducto.xaml.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\View\\CrearProducto.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwDcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:30:22.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\Inicio.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\View\\Inicio.xaml.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\Inicio.xaml.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\View\\Inicio.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:28:21.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearProductoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\CrearProductoViewModel.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\ViewModel\\CrearProductoViewModel.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\CrearProductoViewModel.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\ViewModel\\CrearProductoViewModel.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwDYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:03:23.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrearProducto.xaml",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\CrearProducto.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\View\\CrearProducto.xaml",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\CrearProducto.xaml",
+              "RelativeToolTip": "Tienda\\Tienda\\View\\CrearProducto.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T08:02:58.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\Model\\Producto.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\Model\\Producto.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\Model\\Producto.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\Model\\Producto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA3wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:46:34.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InicioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\InicioViewModel.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\ViewModel\\InicioViewModel.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\InicioViewModel.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\ViewModel\\InicioViewModel.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAUwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:46:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inicio.xaml",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\Inicio.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\View\\Inicio.xaml",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\Inicio.xaml",
+              "RelativeToolTip": "Tienda\\Tienda\\View\\Inicio.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:43:56.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAswD8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:21:50.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CrearCuentaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\CrearCuentaViewModel.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\ViewModel\\CrearCuentaViewModel.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\CrearCuentaViewModel.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\ViewModel\\CrearCuentaViewModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwC8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:53:14.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:50:24.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModeloUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\Model\\ModeloUsuario.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\Model\\ModeloUsuario.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\Model\\ModeloUsuario.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\Model\\ModeloUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:48:54.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\App.xaml.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:33:09.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\App.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\App.xaml",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\App.xaml",
+              "RelativeToolTip": "Tienda\\Tienda\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T06:33:07.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:18:00.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CrearCenta.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\CrearCenta.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\View\\CrearCenta.xaml.cs",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\CrearCenta.xaml.cs",
+              "RelativeToolTip": "Tienda\\Tienda\\View\\CrearCenta.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:17:55.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CrearCenta.xaml",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\CrearCenta.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\View\\CrearCenta.xaml",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\CrearCenta.xaml",
+              "RelativeToolTip": "Tienda\\Tienda\\View\\CrearCenta.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T06:17:06.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Tienda\\Tienda\\View\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\itzel\\source\\repos\\Tienda\\Tienda\\Tienda\\View\\MainPage.xaml",
+              "RelativeToolTip": "Tienda\\Tienda\\View\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T04:14:55.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

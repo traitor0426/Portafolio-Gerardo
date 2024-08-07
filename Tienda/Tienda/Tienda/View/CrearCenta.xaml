@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:vm="clr-namespace:Tienda.ViewModel"
+             x:Class="Tienda.View.CrearCenta">
+    <ContentPage.BindingContext>
+        <vm:CrearCuentaViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout Padding="30" VerticalOptions="CenterAndExpand">
+
+            <!-- Título -->
+            <Label Text="Crear Cuenta"
+                   FontSize="Large"
+                   HorizontalOptions="Center" />
+
+            <!-- Entrada de Correo -->
+            <Entry Placeholder="Correo Electrónico"
+                   Keyboard="Email"
+                   Margin="0,20,0,0"
+                   Text="{Binding Usuario.Correo}" />
+
+            <!-- Entrada de Contraseña -->
+            <Entry Placeholder="Contraseña"
+                   IsPassword="True"
+                   Margin="0,20,0,0"
+                   Text="{Binding Usuario.Contraseña}" />
+
+            <!-- Confirmar Contraseña -->
+            <Entry Placeholder="Confirmar Contraseña"
+                   IsPassword="True"
+                   Margin="0,20,0,0"
+                   Text="{Binding Usuario.ConfirmarContraseña}" />
+
+            <!-- Botón de Crear Cuenta -->
+            <Button Text="Crear Cuenta"
+                    BackgroundColor="#007AFF"
+                    TextColor="White"
+                    Margin="0,20,0,0"
+                    Command="{Binding RegistrarCommand}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

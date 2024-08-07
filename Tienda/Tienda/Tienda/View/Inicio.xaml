@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Tienda.ViewModel"
+             x:Class="Tienda.View.Inicio">
+
+    <ContentPage.BindingContext>
+        <vm:InicioViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <Grid>
+            <StackLayout Padding="30" VerticalOptions="CenterAndExpand">
+
+                <!-- Título -->
+                <Label Text="Productos a la Venta"
+                       FontSize="Large"
+                       HorizontalOptions="Center" />
+
+                <!-- ListView de Productos -->
+                <ListView x:Name="ProductosListView"
+                          ItemsSource="{Binding Productos}"
+                          HasUnevenRows="True">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Padding="10">
+                                    <Label Text="{Binding Nombre}" FontSize="Medium" />
+                                    <Label Text="{Binding Precio, StringFormat='Precio: {0:C}'}" FontSize="Small" />
+                                    <Label Text="{Binding Cantidad, StringFormat='Cantidad: {0}'}" FontSize="Small" />
+                                    <StackLayout Orientation="Horizontal">
+                                        <Button Text="Eliminar" 
+                                                BackgroundColor="Red" 
+                                                TextColor="White"
+                                                Command="{Binding BindingContext.EliminarCommand, Source={x:Reference ProductosListView}}"
+                                                CommandParameter="{Binding .}" />
+                                        <Button Text="Actualizar"
+                                                BackgroundColor="Blue"
+                                                TextColor="White"
+                                                Command="{Binding BindingContext.ActualizarCommand, Source={x:Reference ProductosListView}}"
+                                                CommandParameter="{Binding .}" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+
+            <!-- Barra inferior con botón para agregar producto -->
+            <StackLayout Orientation="Vertical" Padding="10" VerticalOptions="End">
+                <!-- Mostrar Total de Inventario -->
+                <Label Text="{Binding TotalInventario, StringFormat='Total de Inventario: {0} unidades'}"
+                       FontSize="Medium"
+                       HorizontalOptions="Center" />
+                <!-- Botón para agregar producto -->
+                <Button Text="Agregar Producto"
+                        BackgroundColor="#007AFF"
+                        TextColor="White"
+                        HorizontalOptions="FillAndExpand"
+                        Command="{Binding AgregarProductoCommand}" />
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Tienda.ViewModel"
+             x:Class="Tienda.View.CrearProducto">
+
+    <ContentPage.BindingContext>
+        <vm:CrearProductoViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout Padding="30" VerticalOptions="CenterAndExpand">
+
+            <!-- Título -->
+            <Label Text="Agregar Producto"
+                   FontSize="Large"
+                   HorizontalOptions="Center" />
+
+            <!-- Entrada de Nombre -->
+            <Entry Placeholder="Nombre del Producto"
+                   Margin="0,20,0,0"
+                   Text="{Binding Nombre}" />
+
+            <!-- Entrada de Precio -->
+            <Entry Placeholder="Precio"
+                   Keyboard="Numeric"
+                   Margin="0,20,0,0"
+                   Text="{Binding Precio}" />
+
+            <!-- Entrada de Cantidad -->
+            <Entry Placeholder="Cantidad"
+                   Keyboard="Numeric"
+                   Margin="0,20,0,0"
+                   Text="{Binding Cantidad}" />
+
+            <!-- Entrada de Descripción -->
+            <Entry Placeholder="Descripción"
+                   Margin="0,20,0,0"
+                   Text="{Binding Descripcion}" />
+
+            <!-- Botón de Agregar Producto -->
+            <Button Text="Agregar Producto"
+                    BackgroundColor="#007AFF"
+                    TextColor="White"
+                    Margin="0,20,0,0"
+                    Clicked="AlHacerClickEnAgregarProducto"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
