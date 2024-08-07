@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Usuarios</title>
+
+	<script src="js/Modificar/Ajax.js"></script>
+	<script src="js/Modificar/Controlador.js"></script>
+	<script src="js/Modificar/Modificar.js"></script>
+	<script src="js/Modificar/Vista.js"></script>
+	<link rel="stylesheet" href="css/consultarNombreCompleto.css">
+</head>
+<body>
+    <div class="login-container">
+        <main class="cajaFlexible">
+            <div class="formulario">
+                <h2>Modificación de Usuarios</h2>
+                <form id="registroForm" enctype="multipart/form-data">
+                    <div class="columnas"></div>
+                </form>
+                <input id="buscarID" type="text" placeholder="ID del usuario" class="input-field">
+                <button id="buscarUsuario" class="boton">Buscar Usuario</button>
+            </div>
+        </main>
+    </div>
+    <script>
+        document.getElementById('buscarUsuario').addEventListener('click', async function() {
+            const id = document.getElementById('buscarID').value;
+            if (id) {
+                await controlador.buscarUsuario(id);
+            } else {
+                vista.mensaje("Por favor, ingrese un ID válido.");
+            }
+        });
+    </script>
+</body>
+</html>
