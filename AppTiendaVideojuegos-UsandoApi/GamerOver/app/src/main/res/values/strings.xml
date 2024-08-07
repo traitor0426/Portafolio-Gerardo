@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GamerOver</string>
+    <string name="title_activity_ventana_registrar_cuenta">VentanaRegistrarCuenta</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="title_activity_info_videojuegos">InfoVideojuegos</string>
+    <string name="title_activity_registro_compra">RegistroCompra</string>
+    <string name="title_activity_pruebas">Pruebas</string>
+    <string name="title_activity_info_compra">InfoCompra</string>
+</resources>
