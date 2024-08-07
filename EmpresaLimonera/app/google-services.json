@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336459736971",
+    "project_id": "empresalimonera",
+    "storage_bucket": "empresalimonera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336459736971:android:421a1f3e06f327e917318e",
+        "android_client_info": {
+          "package_name": "com.example.empresalimonera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxrm4dtjxMj-iSmSi7mjcBCkJSjYCCDWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

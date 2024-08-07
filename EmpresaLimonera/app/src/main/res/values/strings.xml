@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmpresaLimonera</string>
+    <string name="title_activity_nueva_cuena">NuevaCuena</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="title_activity_tarimas">Tarimas</string>
+    <string name="title_activity_agregar_tarima">AgregarTarima</string>
+    <string name="title_activity_agregar_viaje">AgregarViaje</string>
+</resources>
